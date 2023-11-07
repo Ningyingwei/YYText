@@ -26,7 +26,6 @@ NS_ASSUME_NONNULL_BEGIN
 #if !TARGET_INTERFACE_BUILDER
 
 /**
- test
  The YYLabel class implements a read-only text view.
  
  @discussion The API and behavior is similar to UILabel, but provides more features:
